@@ -1,0 +1,13 @@
+.content {
+    flex: 1;
+    display: flex;
+    justify-content: space-evenly;
+    /* Distributes space between items */
+    align-items: center;
+    flex-wrap: wrap;
+    /* Allow wrapping of cards */
+    gap: 20px;
+    /* Adds space between the cards */
+    padding: 20px;
+    /* Adds some padding around the container */
+}

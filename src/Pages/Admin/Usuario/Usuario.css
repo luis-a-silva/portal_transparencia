@@ -1,0 +1,19 @@
+.util-area {
+    display: flex;
+    justify-content: space-around;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form label {
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
